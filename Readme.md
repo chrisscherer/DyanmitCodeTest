@@ -1,0 +1,1 @@
+For this project I used Google's volley library for networking. This was a library I picked up when first starting android and seemed like the most straight forward and likely most supported since it was Google's own offering. It was also easy to extend for my own purposes so I decided to use it here.
